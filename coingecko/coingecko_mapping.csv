@@ -1,0 +1,352 @@
+Target_Symbol,CoinGecko_ID,CoinGecko_Name,Status
+BTC,batcat,batcat,Matched
+ETH,bifrost-bridged-eth-bifrost,Bifrost Bridged ETH (Bifrost),Matched
+XRP,binance-peg-xrp,Binance-Peg XRP,Matched
+BNB,bifrost-bridged-bnb-bifrost,Bifrost Bridged BNB (Bifrost),Matched
+SOL,allbridge-bridged-sol-near-protocol,Allbridge Bridged SOL (Near Protocol),Matched
+TOMI,tominet,TOMI,Matched
+HYPE,harrypotterhypermarioliquidfentjeffspectrum47i,HarryPotterHyperMarioLiquidFentJeffSpectrum47i,Matched
+STETH,staked-ether,Lido Staked Ether,Matched
+TRX,layerzero-bridged-trx-avalanche,LayerZero Bridged TRX (Avalanche),Matched
+DOGE,binance-peg-dogecoin,Binance-Peg Dogecoin,Matched
+ADA,binance-peg-cardano,Binance-Peg Cardano,Matched
+SUI,sui,Sui,Matched
+WBT,whitebit,WhiteBIT Coin,Matched
+LINK,chainlink,Chainlink,Matched
+XLM,stellar,Stellar,Matched
+WBTC,arbitrum-bridged-wbtc-arbitrum-one,Arbitrum Bridged WBTC (Arbitrum One),Matched
+CRO,cronos-zkevm-bridged-cro-cronos-zkevm,Cronos zkEVM Bridged CRO (Cronos zkEVM),Matched
+WBETH,wrapped-beacon-eth,Wrapped Beacon ETH,Matched
+WLFI,stupid-world-liberty-financial,Stupid World Liberty Financial,Matched
+M,m-2,M by M0,Matched
+TON,tac-bridged-ton-tac,TAC Bridged TON (TAC),Matched
+BCH,binance-peg-bitcoin-cash,Binance-Peg Bitcoin Cash,Matched
+USDE,energi-dollar,Energi Dollar,Matched
+HBAR,hedera-hashgraph,Hedera,Matched
+LEO,leo-2,Leo,Matched
+ASTER,aster-2,Aster,Matched
+AVAX,avalanche-2,Avalanche,Matched
+MANTLE,,,Not_Matched
+WLD,worldcoin-wld,Worldcoin,Matched
+TRUMP,bridged-maga-wormhole,Bridged MAGA (Wormhole),Matched
+LTC,binance-peg-litecoin,Binance-Peg Litecoin,Matched
+ONDO,ondo-finance,Ondo,Matched
+XMR,monero,Monero,Matched
+ZEC,binance-peg-zcash-token,Binance-Peg ZEC,Matched
+XT,xtcom-token,XT.com,Matched
+SHIB,binance-peg-shib,Binance-Peg SHIB,Matched
+ENA,ethena,Ethena,Matched
+UNI,linea-bridged-uni-linea,Linea Bridged UNI (Linea),Matched
+TAO,bittensor,Bittensor,Matched
+DOT,binance-peg-polkadot,Binance-Peg Polkadot,Matched
+IP,story-2,Story,Matched
+PUMP,big-pump,Big Pump,Matched
+VINCI,,,Not_Matched
+BGB,bitget-token,Bitget Token,Matched
+APT,aptos,Aptos,Matched
+GT,gatechain-token,Gate,Matched
+AAVE,aave,Aave,Matched
+PI,pchain,Plian,Matched
+XPL,plasma,Plasma,Matched
+OKB,okb,OKB,Matched
+ARB,arbitrage-loop,Arbitrage Loop,Matched
+PYUSD,paypal-usd,PayPal USD,Matched
+USD1,usd1,USD1 [Old],Matched
+JUP,jupiter,Jupiter Project,Matched
+NEAR,binance-peg-near-protocol,Binance-Peg NEAR Protocol,Matched
+PEPE,baby-pepe-5,BABY PEPE,Matched
+H,h,H,Matched
+JITOSOL,jito-staked-sol,Jito Staked SOL,Matched
+ETC,ethereum-classic,Ethereum Classic,Matched
+MYX,myx-finance,MYX Finance,Matched
+XDC,xdce-crowd-sale,XDC Network,Matched
+XAUT,tether-gold,Tether Gold,Matched
+ICP,internet-computer,Internet Computer,Matched
+MORPHO,morpho,Morpho,Matched
+POL,katana-bridged-pol-katana,Katana Bridged POL (Katana),Matched
+KCS,kucoin-shares,KuCoin,Matched
+ALGO,algorand,Algorand,Matched
+2Z,doublezero,DoubleZero,Matched
+AGI,agently,Agently,Matched
+OP,one-play,One Play,Matched
+SEI,layerzero-bridged-sei,LayerZero Bridged Sei,Matched
+AERO,aerodrome-finance,Aerodrome Finance,Matched
+FLR,flare-networks,Flare,Matched
+0G,zero-gravity,0G,Matched
+ZRO,layerzero,LayerZero,Matched
+CBETH,coinbase-wrapped-staked-eth,Coinbase Wrapped Staked ETH,Matched
+VIRTUAL,virtual-protocol,Virtuals Protocol,Matched
+EIGEN,eigenlayer,EigenCloud (prev. EigenLayer),Matched
+ENS,ethereum-name-service,Ethereum Name Service,Matched
+ATOM,cosmos,Cosmos Hub,Matched
+PAXG,eureka-bridged-pax-gold-terra,Eureka Bridged PAX Gold (Terra),Matched
+KAS,kaspa,Kaspa,Matched
+VET,vechain,VeChain,Matched
+SKY,darkcrypto-share,DarkCrypto Share,Matched
+PENGU,penguiana,Penguiana,Matched
+TWT,trust-wallet-token,Trust Wallet,Matched
+FF,falcon-finance-ff,Falcon Finance,Matched
+BONK,based-bonk,Based Bonk,Matched
+QNT,quant-network,Quant,Matched
+VENOM,venom,Venom,Matched
+WAL,walrus-2,Walrus,Matched
+NEXO,nexo,NEXO,Matched
+ATH,aethir,Aethir,Matched
+STRK,starknet,Starknet,Matched
+FIL,binance-peg-filecoin,Binance-Peg Filecoin,Matched
+DASH,dash,Dash,Matched
+CRV,bridged-curve-dao-token-stargate,Bridged Curve DAO Token (Stargate),Matched
+TIA,celestia,Celestia,Matched
+FDUSD,first-digital-usd,First Digital USD,Matched
+PYTH,pyth-network,Pyth Network,Matched
+USDG,global-dollar,Global Dollar,Matched
+LION,king-of-meme,King Of Meme,Matched
+RLUSD,ripple-usd,Ripple USD,Matched
+RENDER,render-token,Render,Matched
+KAITO,kaito,KAITO,Matched
+IMX,immutable-x,Immutable,Matched
+ETHFI,ether-fi,Ether.fi,Matched
+METH,etherbutts,ETHERBUTTS,Matched
+CAKE,pancakeswap-token,PancakeSwap,Matched
+BERA,berachain-bera,Berachain,Matched
+JTO,jito-governance-token,Jito,Matched
+MX,mx69420,MX69420,Matched
+RAY,raydium,Raydium,Matched
+LDO,lido-dao,Lido DAO,Matched
+BDX,baby-dragonx,Baby DragonX,Matched
+PENDLE,pendle,Pendle,Matched
+SOSO,sosovalue,SoSoValue,Matched
+SAHARA,sahara-ai,Sahara AI,Matched
+INJ,injective-protocol,Injective,Matched
+SPX,spx6900,SPX6900,Matched
+STX,blockstack,Stacks,Matched
+ZK,zksync,ZKsync,Matched
+DEEP,deep,DeepBook,Matched
+BARD,lombard-protocol,Lombard,Matched
+DEXE,dexe,DeXe,Matched
+GRT,the-graph,The Graph,Matched
+ZORA,zora,Zora,Matched
+PROVE,succinct,Succinct,Matched
+FET,fetch-ai,Artificial Superintelligence Alliance,Matched
+FLOKI,floki,FLOKI,Matched
+MOVE,bluemove,BlueMove,Matched
+MERL,merlin-chain,Merlin Chain,Matched
+S,agent-s,Agent S,Matched
+W,victorious,Victorious,Matched
+KAIA,a-i-agent-kaia,A.I Agent kAia,Matched
+AVNT,avantis,Avantis,Matched
+PLUME,plume,Plume,Matched
+XTZ,binance-peg-tezos-token,Binance-Peg Tezos Token,Matched
+SAROS,saros-finance,Saros,Matched
+SAND,the-sandbox,The Sandbox,Matched
+KMNO,kamino,Kamino,Matched
+AB,arma-block,Arma Block,Matched
+MOCA,mocaverse,Moca Network,Matched
+EOS,binance-peg-eos,Binance-Peg EOS,Matched
+A,vaulta,Vaulta,Matched
+CFX,conflux-token,Conflux,Matched
+RSR,reserve-rights-token,Reserve Rights,Matched
+WIF,dogwifcoin,dogwifhat,Matched
+NEO,neo,NEO,Matched
+SYRUP,syrup,Maple Finance,Matched
+MANA,decentraland,Decentraland,Matched
+JASMY,jasmycoin,JasmyCoin,Matched
+BTT,bittorrent,BitTorrent,Matched
+CORE,core-2,Core,Matched
+THETA,theta-token,Theta Network,Matched
+VSN,vision-3,Vision,Matched
+GALA,gala,GALA,Matched
+FLUID,instadapp,Fluid,Matched
+BSV,bitcoin-cash-sv,Bitcoin SV,Matched
+ME,literally-me,Literally Me,Matched
+USDD,usdd,USDD,Matched
+HNT,helium,Helium,Matched
+NFT,apenft,AINFT,Matched
+CCD,concordium,Concordium,Matched
+FLOW,flow,Flow,Matched
+CMETH,mantle-restaked-eth,Mantle Restaked ETH,Matched
+SOMI,somnia,Somnia,Matched
+KTA,keeta,Keeta,Matched
+BLESS,bless-2,Bless,Matched
+APE,ape-3,Ape,Matched
+GNO,gnosis,Gnosis,Matched
+HEMI,hemi,Hemi,Matched
+ALEO,aleo,ALEO,Matched
+DRIFT,drift-protocol,Drift Protocol,Matched
+MWC,mimblewimblecoin,MimbleWimbleCoin,Matched
+MIOTA,,,Not_Matched
+AXS,axie-infinity,Axie Infinity,Matched
+XCN,chain-2,Onyxcoin,Matched
+DCR,decred,Decred,Matched
+LA,lagrange,Lagrange,Matched
+JST,just,JUST,Matched
+RUNE,thorchain,THORChain,Matched
+SUPER,superciety,PeerMe SUPER,Matched
+ZBCN,zebec-network,Zebec Network,Matched
+BORG,swissborg,SwissBorg,Matched
+VANA,vana,Vana,Matched
+COMP,compound-governance-token,Compound,Matched
+SPK,spark-2,Spark,Matched
+HOLO,holo,holo,Matched
+ARKM,arkham,Arkham,Matched
+BMX,bitmart-token,BitMart,Matched
+CTC,creditcoin-2,Creditcoin,Matched
+SNX,havven,Synthetix,Matched
+PEAQ,peaq-2,peaq,Matched
+RONIN,,,Not_Matched
+OPEN,opengpu,OpenGPU,Matched
+GRASS,grass,Grass,Matched
+FARTCOIN,based-fartcoin,Based Fartcoin,Matched
+DBR,debridge,deBridge,Matched
+CHZ,chiliz,Chiliz,Matched
+XAN,anoma,Anoma,Matched
+TEL,telcoin,Telcoin,Matched
+DYDX,dydx-chain,dYdX,Matched
+SONIC,sonic-2,Sonic,Matched
+BAT,basic-attention-token,Basic Attention,Matched
+FTT,ftx-token,FTX,Matched
+XEC,ecash,eCash,Matched
+ZEN,zenai,ZenAI,Matched
+EURC,euro-coin,EURC,Matched
+EDGE,definitive,Definitive,Matched
+VVS,vvs-finance,VVS Finance,Matched
+CHEEMS,cheems,Cheems,Matched
+LUNC,luna-wormhole,Terra Classic (Wormhole),Matched
+TOSHI,first-dog-to-buy-crypto,First Dog to Buy Crypto,Matched
+BABY,a-fund-baby,A Fund Baby,Matched
+BEAM,beam,BEAM,Matched
+EGLD,elrond-erd-2,MultiversX,Matched
+RECALL,recall,Recall,Matched
+TRAC,origintrail,OriginTrail,Matched
+RSC,researchcoin,ResearchCoin,Matched
+AR,arweave,Arweave,Matched
+ERA,caldera,Caldera,Matched
+BIO,bionergy,Bionergy,Matched
+SXT,space-and-time,Space and Time,Matched
+CELO,celo,Celo,Matched
+1INCH,1inch,1INCH,Matched
+LAYER,solayer,Solayer,Matched
+AMP,amp-token,Amp,Matched
+MIRA,chains-of-war,Chains of War,Matched
+TAIKO,taiko,Taiko,Matched
+LPT,livepeer,Livepeer,Matched
+ICNT,impossible-cloud-network-token,Impossible Cloud Network Token,Matched
+IO,io,io.net,Matched
+WMTX,walmart-xstock,Walmart xStock,Matched
+HUMA,huma-finance,Huma Finance,Matched
+EUL,euler,Euler,Matched
+XCH,chia,Chia,Matched
+SAFE,basesafe,BaseSafe,Matched
+MPLX,metaplex,Metaplex,Matched
+PROM,prometeus,Prom,Matched
+REKT,rekt-04bbe51a-e290-450a-afb5-b2b43b80b20e,REKT,Matched
+NIL,nillion,Nillion,Matched
+CVX,convex-finance,Convex Finance,Matched
+B3,b3,B3 (Base),Matched
+MKR,maker,Maker,Matched
+ZKC,boundless,Boundless,Matched
+AIOZ,aioz-network,AIOZ Network,Matched
+BB,baby-bali,Baby Bali,Matched
+GAS,gas,Gas,Matched
+AXL,axelar,Axelar,Matched
+WEMIX,wemix-token,WEMIX,Matched
+COW,coinwind,CoinWind,Matched
+BABYDOGE,baby-doge-coin,Baby Doge Coin,Matched
+QTUM,qtum,Qtum,Matched
+Q,q,Q,Matched
+ORDER,order-2,ORDER,Matched
+USELESS,useless-3,Useless Coin,Matched
+IOST,iostoken,IOST,Matched
+ZETA,zetachain,ZetaChain,Matched
+AKT,akash-network,Akash Network,Matched
+ZRX,0x,0x Protocol,Matched
+VELO,velo,Velo,Matched
+RED,redstone-oracles,RedStone,Matched
+ALT,alitas,Alitas,Matched
+ZANO,zano,Zano,Matched
+CARV,carv,CARV,Matched
+SCROLL,,,Not_Matched
+OM,mantra-dao,MANTRA,Matched
+YFI,yearn-finance,yearn.finance,Matched
+SNEK,based-snek,BASED SNEK,Matched
+TFUEL,theta-fuel,Theta Fuel,Matched
+MOG,based-mog-coin,Based Mog Coin,Matched
+IKA,ika,Ika,Matched
+ROSE,oasis-network,Oasis,Matched
+ZIG,zignaly,ZIGChain,Matched
+KUB,bitkub-coin,KUB Coin,Matched
+CKB,nervos-network,Nervos Network,Matched
+IOTX,binance-peg-iotex,Binance-Peg IoTeX,Matched
+TREE,tree-capital,Tree,Matched
+DOG,base-dog,Base DOG,Matched
+MINA,mina-protocol,Mina Protocol,Matched
+GUN,gunz,Gunz,Matched
+MEW,cat-in-a-dogs-world,cat in a dogs world,Matched
+ZIL,zilliqa,Zilliqa,Matched
+PTB,portal-to-bitcoin,Portal to Bitcoin,Matched
+RVN,ravencoin,Ravencoin,Matched
+DGB,digibyte,DigiByte,Matched
+SAPIEN,sapien-2,Sapien,Matched
+BIGTIME,big-time,Big Time,Matched
+HOME,home,HOME,Matched
+STG,stargate-finance,Stargate Finance,Matched
+TURBO,based-turbo,Based Turbo,Matched
+SHX,stronghold-token,Stronghold,Matched
+GLM,golem,Golem,Matched
+T,talos-2,Talos,Matched
+XPR,proton,XPR Network,Matched
+KAVA,kava,Kava,Matched
+CET,cetcoinsol,CetCoinSOL,Matched
+BLUR,blur,Blur,Matched
+SUSHI,sushi,Sushi,Matched
+ASTR,astar,Astar,Matched
+POPCAT,popcat,Popcat,Matched
+XVS,venus,Venus,Matched
+UMA,uma,UMA,Matched
+AWE,stp-network,AWE Network,Matched
+GMTT,,,Not_Matched
+NMR,numeraire,Numeraire,Matched
+INIT,init,Inite,Matched
+NEWT,newt,Newt,Matched
+BLAST,blast,Blast,Matched
+ELF,aelf,aelf,Matched
+WCT,connect-token-wct,WalletConnect Token,Matched
+AKE,akedo,Akedo,Matched
+ORBS,orbs,Orbs,Matched
+CORN,corn-2,Corn,Matched
+REQ,request-network,Request,Matched
+SHELL,myshell,MyShell,Matched
+ENSO,enso,Enso,Matched
+PNUT,peanut-3,Peanut,Matched
+OL,open-loot,OPENLOOT,Matched
+SC,safecircle,SafeCircle,Matched
+SNT,status,Status,Matched
+VVV,venice-token,Venice Token,Matched
+ACH,alchemy-pay,Alchemy Pay,Matched
+XVG,verge,Verge,Matched
+YGG,yield-guild-games,Yield Guild Games,Matched
+BFC,bifrost,Bifrost,Matched
+CLOUD,cloudai,CloudAI,Matched
+KERNEL,kernel-2,KernelDAO,Matched
+ARRR,pirate-chain,Pirate Chain,Matched
+NPC,non-playable-coin,Non-Playable Coin,Matched
+MELANIA,melania-meme,Melania Meme,Matched
+XION,xion-2,XION,Matched
+AURORA,aurora-near,Aurora,Matched
+ORCA,orca,Orca,Matched
+OSMO,osmosis,Osmosis,Matched
+HOT,holotoken,Holo,Matched
+TOWNS,towns,Towns,Matched
+ONGAS,,,Not_Matched
+IN,incoin-2,Incoin,Matched
+SQD,sqd,SQD,Matched
+MANTA,manta-network,Manta Network,Matched
+CFGV1,,,Not_Matched
+ES,eclipse-3,Eclipse,Matched
+SKL,skale,SKALE,Matched
+POWR,power-ledger,Powerledger,Matched
+CSPR,casper-network,Casper Network,Matched
+MEME,meme-brc-20,MEME (Ordinals),Matched
+SFP,safepal,SafePal,Matched
+API3,api3,Api3,Matched
+SOLO,solo,Solo,Matched
