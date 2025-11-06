@@ -6,8 +6,8 @@ pd.set_option("display.width", 180)
 pd.set_option("display.max_columns", 200)
 
 FILES = [
-    ("/Users/elviral/codeproject/capstone/data/filtered/cleaned_paper_dataset.csv", "Cleaned dataset"),
-    ("/Users/elviral/codeproject/capstone/raw_dataset.csv", "Regularized dataset"),
+    # ("/Users/elviral/codeproject/capstone/data/filtered/cleaned_paper_dataset.csv", "Cleaned dataset"),
+    ("/Users/elviral/codeproject/capstone/features_03_group3_final.csv", "factor dataset"),
 ]
 
 NUM_COL_CANDIDATES = [
