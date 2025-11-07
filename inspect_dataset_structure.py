@@ -7,7 +7,7 @@ pd.set_option("display.max_columns", 200)
 
 FILES = [
     # ("/Users/elviral/codeproject/capstone/data/filtered/cleaned_paper_dataset.csv", "Cleaned dataset"),
-    ("/Users/elviral/codeproject/capstone/features_03_group3_final.csv", "factor dataset"),
+    ("/Users/elviral/codeproject/capstone/data/features_final.csv", "feature dataset"),
 ]
 
 NUM_COL_CANDIDATES = [
@@ -26,6 +26,16 @@ def show_info(df: pd.DataFrame, tag: str):
 
     print("\n[示例 .head(5)]")
     print(df.head(5))
+
+    print("checkpoint")
+    symbol_counts = (
+        df['Symbol']
+        .value_counts()
+        .rename_axis('Symbol')
+        .reset_index(name='count')
+    )
+    print(symbol_counts)
+
 
     # 关键列检测
     for col in ["symbol", "date"]:
