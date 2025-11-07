@@ -1,1 +1,3 @@
-date,rank,name,symbol,market_cap_usd,price_usd,circulating_supply,cap_bucket
+version https://git-lfs.github.com/spec/v1
+oid sha256:67e0ffb08ec2be95bfd074271ffb3bc5ba41298899d1a008aa5706de6ad0b2fa
+size 77
